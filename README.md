@@ -20,7 +20,7 @@ This is a simple CRUD application for managing contacts, consisting of:
 ### 1️⃣ Backend - .NET Web API
 #### Prerequisites:
 - [.NET SDK 7+](https://dotnet.microsoft.com/download)
-- SQLite (update connection string in `appsettings.json`)
+- SQLite (update connection string in `Program.cs`)
 
 #### Steps to Run:
 ```bash
